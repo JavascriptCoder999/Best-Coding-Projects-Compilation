@@ -1,6 +1,6 @@
 ```diff
 - Forked from
-! "layout.md" in  linktr.ee repo
+! "layout.md" in  linktr.ee repo!
 + https://github.com/JavascriptCoder999/linktr.ee/blob/Markdown-Version/Layout.md
 ```
 ```bash
