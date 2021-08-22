@@ -6,6 +6,7 @@
 ```bash
 #in markdown branch
 ```
+```
 ![Wumpus](https://d1fdloi71mui9q.cloudfront.net/wgCJw33TDSI2YJmgB7gz_H568ZjctLXNTJ07W "Wumpus! [discord mascot]")
 **This is @milkjug21's Linktree**
 
