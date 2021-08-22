@@ -1,5 +1,5 @@
 
-![Wumpus](https://d1fdloi71mui9q.cloudfront.net/wgCJw33TDSI2YJmgB7gz_H568ZjctLXNTJ07W "Wumpus! [discord mascot]")
+![Wumpus!](https://d1fdloi71mui9q.cloudfront.net/wgCJw33TDSI2YJmgB7gz_H568ZjctLXNTJ07W "Wumpus! [discord mascot]")
 **This is @milkjug21's Linktree**
 
 [Bitbucket @draggable-dragon_28](https://bitbucket.org/draggable-dragon_28/ 'Bitbucket')
