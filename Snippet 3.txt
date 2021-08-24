@@ -1,8 +1,9 @@
-```
+
 <!---
-forked from "README.md" in JavascriptCoder999 repo 
+forked from "README.md" in JavascriptCoder999 repo - this is markdown but if I were to change the file extension to .md it would show the output not the code
 --->
 
+```
 > ![alt](https://avatars.githubusercontent.com/u/81769195?s=48&v=4 "my profile PiCtUrE")
 > 
 >> > ![alt](https://avatars.githubusercontent.com/u/81769195?s=48&v=4 "my profile PiCtUrE")
@@ -20,6 +21,7 @@ forked from "README.md" in JavascriptCoder999 repo
 discord:
 mouseWheel77 #8083
 ADD ME PLEASE
+```
 ```
 `i think bitcoins will change the world in time`
 
